@@ -1,9 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.matthewplewa.cosmicraydetector.decov2.WorkAround" >
-    <item android:id="@+id/action_settings"
-        android:title="@string/action_settings"
-        android:orderInCategory="100"
-        android:showAsAction="never" />
-</menu>
-<!-- From: file:/C:/Users/Adam/Projects/DECOv2/mobile/src/main/res/menu/work_around.xml -->

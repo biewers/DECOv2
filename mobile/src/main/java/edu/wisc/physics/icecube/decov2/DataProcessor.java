@@ -23,12 +23,12 @@ public class DataProcessor extends Thread
     private static final SimpleDateFormat IMAGE_FILE_FORMAT = new SimpleDateFormat("yyyyMMdd_hhmmss");
 
     // if you want to change the scale (which will have to be changed in the calibration protion of the set up (not done) <done
-    private static final double SCALE_X = 11;
-    private static final double SCALE_Y = 11;
+    public static double SCALE_X = 11;
+    public static double SCALE_Y = 11;
 
-    private static final int RED_THRESHOLD = 80;
-    private static final int GREEN_THRESHOLD = 80;
-    private static final int BLUE_THRESHOLD = 80;
+    public static int RED_THRESHOLD = 80;
+    public static int GREEN_THRESHOLD = 80;
+    public static int BLUE_THRESHOLD = 80;
 
     private static boolean longProcess = false;
 

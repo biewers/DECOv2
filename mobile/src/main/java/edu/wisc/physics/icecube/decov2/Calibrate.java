@@ -202,11 +202,11 @@ public class Calibrate extends Thread{
         }
 
         if (done >= 61){
-            DataProcessor.scaleY=scaleY;
-            DataProcessor.scaleX=scaleX;
-            DataProcessor.rThresh=rTemp+20;
-            DataProcessor.gThresh=gTemp+20;
-            DataProcessor.bThresh=bTemp+20;
+            DataProcessor.SCALE_Y=scaleY;
+            DataProcessor.SCALE_X=scaleX;
+            DataProcessor.RED_THRESHOLD=rTemp+20;
+            DataProcessor.GREEN_THRESHOLD=gTemp+20;
+            DataProcessor.BLUE_THRESHOLD=bTemp+20;
             if(DEBUG)Log.i(tag,"setting to false");
             Camera2BasicFragment.calibrating=false;
             calibrate=false;
