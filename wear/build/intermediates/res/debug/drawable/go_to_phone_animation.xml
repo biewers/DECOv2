@@ -54,4 +54,4 @@
     <item android:drawable="@drawable/go_to_phone_00222" android:duration="33"/>
     <item android:drawable="@drawable/go_to_phone_00223" android:duration="33"/>
     <item android:drawable="@drawable/go_to_phone_00224" android:duration="33"/>
-</animation-list><!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/ub-wearable-common-bismuth/vendor/unbundled_google/libs/wearable/wearable-support/lib/src/main/res/drawable/go_to_phone_animation.xml --><!-- From: file:/Users/andrewbiewer/Projects/DecoV2-1/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/res/drawable/go_to_phone_animation.xml -->
+</animation-list><!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/ub-wearable-common-bismuth/vendor/unbundled_google/libs/wearable/wearable-support/lib/src/main/res/drawable/go_to_phone_animation.xml --><!-- From: file:/C:/Users/Adam/Projects/DECOv2/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/res/drawable/go_to_phone_animation.xml -->

@@ -1,6 +1,8 @@
 -- Merging decision tree log ---
 manifest
 ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
 	package
 		ADDED from AndroidManifest.xml:3:5
 		INJECTED from AndroidManifest.xml:0:0
@@ -8,8 +10,6 @@ ADDED from AndroidManifest.xml:2:1
 	android:versionName
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
-	xmlns:android
-		ADDED from AndroidManifest.xml:2:11
 	android:versionCode
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
@@ -79,7 +79,7 @@ ADDED from AndroidManifest.xml:30:9
 		ADDED from AndroidManifest.xml:31:13
 meta-data#com.google.android.gms.version
 ADDED from com.google.android.gms:play-services-base:6.5.87:21:9
-	android:value
-		ADDED from com.google.android.gms:play-services-base:6.5.87:23:13
 	android:name
 		ADDED from com.google.android.gms:play-services-base:6.5.87:22:13
+	android:value
+		ADDED from com.google.android.gms:play-services-base:6.5.87:23:13

@@ -22,4 +22,4 @@
     <item android:drawable="@drawable/generic_confirmation_00191" android:duration="33"/>
     <item android:drawable="@drawable/generic_confirmation_00192" android:duration="33"/>
     <item android:drawable="@drawable/generic_confirmation_00193" android:duration="33"/>
-</animation-list><!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/ub-wearable-common-bismuth/vendor/unbundled_google/libs/wearable/wearable-support/lib/src/main/res/drawable/confirmation_animation.xml --><!-- From: file:/Users/andrewbiewer/Projects/DecoV2-1/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/res/drawable/confirmation_animation.xml -->
+</animation-list><!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/ub-wearable-common-bismuth/vendor/unbundled_google/libs/wearable/wearable-support/lib/src/main/res/drawable/confirmation_animation.xml --><!-- From: file:/C:/Users/Adam/Projects/DECOv2/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/res/drawable/confirmation_animation.xml -->
