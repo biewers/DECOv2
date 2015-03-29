@@ -61,7 +61,7 @@ public class DataProcessor extends Thread
         {
             Log.d(TAG, "saving image");
 
-            String pic = IMAGE_FILE_FORMAT.format(Calendar.getInstance());
+            String pic = IMAGE_FILE_FORMAT.format(Calendar.getInstance().getTime());
 
             File file = new File(Environment.getExternalStorageDirectory(), "DECO/EVENTS/");
             file.mkdirs(); //makes sure that the directory exists! if not then it makes it exist

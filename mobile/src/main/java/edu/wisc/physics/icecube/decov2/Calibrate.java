@@ -57,8 +57,7 @@ public class Calibrate extends Thread{
 
 
     public void calibrate(){
-        byte[] bytes = bitsList.get(0);
-        bitsList.remove(0);
+        byte[] bytes = bitsList.remove(0);
         Log.i(tag,"calibrating"+done);
         go=false;
         done++;
