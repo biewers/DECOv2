@@ -23,9 +23,6 @@ public class DataProcessorTest extends AndroidTestCase
         Bitmap image = BitmapFactory.decodeResource(getContext().getResources(), R.drawable.eightpixels2, options);
         assertNotNull(image);
 
-        int size = image.getRowBytes() * image.getHeight();
-        ByteBuffer buffer = ByteBuffer.allocate(size);
-
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
         image.compress(Bitmap.CompressFormat.JPEG, 100, baos);
         byte[] bytes = baos.toByteArray();
